@@ -1,4 +1,4 @@
-# UnityMaterialInstances
+# Unity Material Instances
 Implements Material Instance capabilities like in Unreal Engine 4
 Use however you like. No credits necessary
 
